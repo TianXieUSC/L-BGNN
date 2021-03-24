@@ -1,0 +1,46 @@
+epoch: 4, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0005, dropout: 0.5, batch_size: 512
+epoch: 4, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0005, dropout: 0.5, batch_size: 512
+test accuracy: 0.5890, binary (default) f1-score: 0.4966, micro f1-score: 0.5890, macro f1-score: 0.5747
+
+epoch: 4, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0005, dropout: 0.5, batch_size: 512
+epoch: 4, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0005, dropout: 0.5, batch_size: 512
+test accuracy: 0.8790, binary (default) f1-score: 0.8839, micro f1-score: 0.8790, macro f1-score: 0.8787
+
+epoch: 4, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0005, dropout: 0.5, batch_size: 512
+epoch: 4, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0005, dropout: 0.5, batch_size: 512
+epoch: 4, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0005, dropout: 0.5, batch_size: 512
+epoch: 4, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0005, dropout: 0.5, batch_size: 512
+epoch: 8, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 1, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 2, disc_hid_dim: 128, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 2, disc_hid_dim: 256, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 10, layer_depth: 6, disc_hid_dim: 32, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 4, disc_hid_dim: 32, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 8, layer_depth: 2, disc_hid_dim: 32, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 3, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 3, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 256
+epoch: 1, layer_depth: 1, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 256
+epoch: 1, layer_depth: 1, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 256
+epoch: 1, layer_depth: 1, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 256
+epoch: 1, layer_depth: 1, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 256
+epoch: 2, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 256
+epoch: 2, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 256
+epoch: 2, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 512
+epoch: 2, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 512
+epoch: 2, layer_depth: 3, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 512
+epoch: 2, layer_depth: 3, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 512
+epoch: 3, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 512
+epoch: 2, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 512
+epoch: 3, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.1, batch_size: 512
+epoch: 2, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 3, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 3, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 4, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 4, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 3, layer_depth: 4, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 4, layer_depth: 4, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512
+epoch: 2, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0001, dropout: 0.5, batch_size: 512

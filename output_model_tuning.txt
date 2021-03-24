@@ -1,0 +1,201 @@
+top-K: 5, hit@K: 0.2688, NDCG@K: 0.2067
+top-K: 10, hit@K: 0.3640, NDCG@K: 0.2369
+top-K: 15, hit@K: 0.4604, NDCG@K: 0.2621
+top-K: 25, hit@K: 0.7233, NDCG@K: 0.3220
+top-K: 50, hit@K: 0.9294, NDCG@K: 0.3628
+
+top-K: 5, hit@K: 0.2423, NDCG@K: 0.1362
+top-K: 10, hit@K: 0.3105, NDCG@K: 0.1576
+top-K: 15, hit@K: 0.3841, NDCG@K: 0.1770
+top-K: 25, hit@K: 0.5790, NDCG@K: 0.2210
+top-K: 50, hit@K: 0.8844, NDCG@K: 0.2805
+
+top-K: 5, hit@K: 0.1761, NDCG@K: 0.0959
+top-K: 10, hit@K: 0.2595, NDCG@K: 0.1224
+top-K: 15, hit@K: 0.3658, NDCG@K: 0.1496
+top-K: 25, hit@K: 0.5956, NDCG@K: 0.2019
+top-K: 50, hit@K: 0.8579, NDCG@K: 0.2518
+
+top-K: 5, hit@K: 0.1924, NDCG@K: 0.1241
+top-K: 10, hit@K: 0.2751, NDCG@K: 0.1510
+top-K: 15, hit@K: 0.4134, NDCG@K: 0.1877
+top-K: 25, hit@K: 0.6221, NDCG@K: 0.2348
+top-K: 50, hit@K: 0.8567, NDCG@K: 0.2795
+
+top-K: 5, hit@K: 0.0490, NDCG@K: 0.0259
+top-K: 10, hit@K: 0.1171, NDCG@K: 0.0475
+top-K: 15, hit@K: 0.2140, NDCG@K: 0.0728
+top-K: 25, hit@K: 0.2865, NDCG@K: 0.0891
+top-K: 50, hit@K: 0.5424, NDCG@K: 0.1381
+
+top-K: 5, hit@K: 0.0949, NDCG@K: 0.0686
+top-K: 10, hit@K: 0.1875, NDCG@K: 0.0999
+top-K: 15, hit@K: 0.2239, NDCG@K: 0.1095
+top-K: 25, hit@K: 0.3380, NDCG@K: 0.1352
+top-K: 50, hit@K: 0.5894, NDCG@K: 0.1827
+
+top-K: 5, hit@K: 0.0863, NDCG@K: 0.0544
+top-K: 10, hit@K: 0.1987, NDCG@K: 0.0904
+top-K: 15, hit@K: 0.2809, NDCG@K: 0.1124
+top-K: 25, hit@K: 0.3683, NDCG@K: 0.1325
+top-K: 50, hit@K: 0.6588, NDCG@K: 0.1876
+
+top-K: 5, hit@K: 0.2473, NDCG@K: 0.1518
+top-K: 10, hit@K: 0.5446, NDCG@K: 0.2474
+top-K: 15, hit@K: 0.7652, NDCG@K: 0.3076
+top-K: 25, hit@K: 0.8453, NDCG@K: 0.3260
+top-K: 50, hit@K: 0.9573, NDCG@K: 0.3478
+
+top-K: 5, hit@K: 0.1640, NDCG@K: 0.0827
+top-K: 10, hit@K: 0.2989, NDCG@K: 0.1260
+top-K: 15, hit@K: 0.4422, NDCG@K: 0.1654
+top-K: 25, hit@K: 0.5503, NDCG@K: 0.1899
+top-K: 50, hit@K: 0.8001, NDCG@K: 0.2378
+
+top-K: 5, hit@K: 0.2102, NDCG@K: 0.1757
+top-K: 10, hit@K: 0.2763, NDCG@K: 0.1969
+top-K: 15, hit@K: 0.4624, NDCG@K: 0.2446
+top-K: 25, hit@K: 0.6799, NDCG@K: 0.2953
+top-K: 50, hit@K: 0.8309, NDCG@K: 0.3239
+
+top-K: 5, hit@K: 0.2458, NDCG@K: 0.1608
+top-K: 10, hit@K: 0.4099, NDCG@K: 0.2116
+top-K: 15, hit@K: 0.5103, NDCG@K: 0.2382
+top-K: 25, hit@K: 0.6583, NDCG@K: 0.2718
+top-K: 50, hit@K: 0.8819, NDCG@K: 0.3160
+
+top-K: 5, hit@K: 0.1966, NDCG@K: 0.1094
+top-K: 10, hit@K: 0.2382, NDCG@K: 0.1230
+top-K: 15, hit@K: 0.4087, NDCG@K: 0.1693
+top-K: 25, hit@K: 0.5298, NDCG@K: 0.1965
+top-K: 50, hit@K: 0.7368, NDCG@K: 0.2363
+
+top-K: 5, hit@K: 0.2070, NDCG@K: 0.1307
+top-K: 10, hit@K: 0.3029, NDCG@K: 0.1638
+top-K: 15, hit@K: 0.5270, NDCG@K: 0.2216
+top-K: 25, hit@K: 0.6487, NDCG@K: 0.2494
+top-K: 50, hit@K: 0.8569, NDCG@K: 0.2894
+
+epoch: 4, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0005, dropout: 0.5, batch_size: 512
+epoch: 4, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0005, dropout: 0.5, batch_size: 512
+epoch: 4, layer_depth: 2, disc_hid_dim: 64, learning_rate: 0.001, weight_decay: 0.0005, dropout: 0.5, batch_size: 512
+top-K: 5, hit@K: 0.0641, NDCG@K: 0.0305
+top-K: 10, hit@K: 0.1628, NDCG@K: 0.0615
+top-K: 15, hit@K: 0.3201, NDCG@K: 0.1028
+top-K: 25, hit@K: 0.4419, NDCG@K: 0.1303
+top-K: 50, hit@K: 0.7335, NDCG@K: 0.1871
+
+top-K: 5, hit@K: 0.0508, NDCG@K: 0.0286
+top-K: 10, hit@K: 0.2358, NDCG@K: 0.0868
+top-K: 15, hit@K: 0.2842, NDCG@K: 0.0995
+top-K: 25, hit@K: 0.4863, NDCG@K: 0.1460
+top-K: 50, hit@K: 0.7459, NDCG@K: 0.1953
+
+top-K: 5, hit@K: 0.0358, NDCG@K: 0.0238
+top-K: 10, hit@K: 0.1350, NDCG@K: 0.0557
+top-K: 15, hit@K: 0.2900, NDCG@K: 0.0962
+top-K: 25, hit@K: 0.4410, NDCG@K: 0.1304
+top-K: 50, hit@K: 0.7034, NDCG@K: 0.1802
+
+top-K: 5, hit@K: 0.0651, NDCG@K: 0.0395
+top-K: 10, hit@K: 0.1787, NDCG@K: 0.0754
+top-K: 15, hit@K: 0.3132, NDCG@K: 0.1109
+top-K: 25, hit@K: 0.4742, NDCG@K: 0.1474
+top-K: 50, hit@K: 0.7648, NDCG@K: 0.2042
+
+top-K: 5, hit@K: 0.0765, NDCG@K: 0.0395
+top-K: 10, hit@K: 0.2832, NDCG@K: 0.1055
+top-K: 15, hit@K: 0.4207, NDCG@K: 0.1423
+top-K: 25, hit@K: 0.5447, NDCG@K: 0.1709
+top-K: 50, hit@K: 0.8461, NDCG@K: 0.2288
+
+top-K: 5, hit@K: 0.2845, NDCG@K: 0.1570
+top-K: 10, hit@K: 0.5773, NDCG@K: 0.2496
+top-K: 15, hit@K: 0.7870, NDCG@K: 0.3060
+top-K: 25, hit@K: 0.8292, NDCG@K: 0.3156
+top-K: 50, hit@K: 0.9622, NDCG@K: 0.3416
+
+top-K: 5, hit@K: 0.0639, NDCG@K: 0.0438
+top-K: 10, hit@K: 0.1868, NDCG@K: 0.0835
+top-K: 15, hit@K: 0.2176, NDCG@K: 0.0916
+top-K: 25, hit@K: 0.4316, NDCG@K: 0.1401
+top-K: 50, hit@K: 0.7297, NDCG@K: 0.1982
+
+top-K: 5, hit@K: 0.0677, NDCG@K: 0.0390
+top-K: 10, hit@K: 0.1307, NDCG@K: 0.0606
+top-K: 15, hit@K: 0.1663, NDCG@K: 0.0713
+top-K: 25, hit@K: 0.2920, NDCG@K: 0.1036
+top-K: 50, hit@K: 0.5641, NDCG@K: 0.1668
+
+top-K: 5, hit@K: 0.1065, NDCG@K: 0.0489
+top-K: 10, hit@K: 0.2112, NDCG@K: 0.0824
+top-K: 15, hit@K: 0.2830, NDCG@K: 0.1010
+top-K: 25, hit@K: 0.4094, NDCG@K: 0.1300
+top-K: 50, hit@K: 0.7469, NDCG@K: 0.1950
+
+top-K: 5, hit@K: 0.0558, NDCG@K: 0.0336
+top-K: 10, hit@K: 0.1867, NDCG@K: 0.0763
+top-K: 15, hit@K: 0.2430, NDCG@K: 0.0913
+top-K: 25, hit@K: 0.4278, NDCG@K: 0.1331
+top-K: 50, hit@K: 0.6754, NDCG@K: 0.1799
+
+top-K: 5, hit@K: 0.0499, NDCG@K: 0.0278
+top-K: 10, hit@K: 0.1936, NDCG@K: 0.0719
+top-K: 15, hit@K: 0.3107, NDCG@K: 0.1031
+top-K: 25, hit@K: 0.4985, NDCG@K: 0.1460
+top-K: 50, hit@K: 0.7600, NDCG@K: 0.1954
+
+top-K: 5, hit@K: 0.0316, NDCG@K: 0.0171
+top-K: 10, hit@K: 0.0924, NDCG@K: 0.0369
+top-K: 15, hit@K: 0.1645, NDCG@K: 0.0562
+top-K: 25, hit@K: 0.3145, NDCG@K: 0.0914
+top-K: 50, hit@K: 0.7189, NDCG@K: 0.1687
+
+top-K: 5, hit@K: 0.0671, NDCG@K: 0.0339
+top-K: 10, hit@K: 0.1390, NDCG@K: 0.0576
+top-K: 15, hit@K: 0.2034, NDCG@K: 0.0744
+top-K: 25, hit@K: 0.4121, NDCG@K: 0.1222
+top-K: 50, hit@K: 0.6751, NDCG@K: 0.1718
+
+top-K: 5, hit@K: 0.0831, NDCG@K: 0.0389
+top-K: 10, hit@K: 0.1340, NDCG@K: 0.0556
+top-K: 15, hit@K: 0.1663, NDCG@K: 0.0641
+top-K: 25, hit@K: 0.3210, NDCG@K: 0.0995
+top-K: 50, hit@K: 0.5282, NDCG@K: 0.1393
+
+top-K: 5, hit@K: 0.1037, NDCG@K: 0.0435
+top-K: 10, hit@K: 0.3281, NDCG@K: 0.1138
+top-K: 15, hit@K: 0.4515, NDCG@K: 0.1469
+top-K: 25, hit@K: 0.6597, NDCG@K: 0.1943
+top-K: 50, hit@K: 0.8649, NDCG@K: 0.2343
+
+top-K: 5, hit@K: 0.0593, NDCG@K: 0.0263
+top-K: 10, hit@K: 0.3071, NDCG@K: 0.1092
+top-K: 15, hit@K: 0.4945, NDCG@K: 0.1585
+top-K: 25, hit@K: 0.6739, NDCG@K: 0.1994
+top-K: 50, hit@K: 0.9001, NDCG@K: 0.2443
+
+top-K: 5, hit@K: 0.3150, NDCG@K: 0.1781
+top-K: 10, hit@K: 0.6482, NDCG@K: 0.2819
+top-K: 15, hit@K: 0.7501, NDCG@K: 0.3089
+top-K: 25, hit@K: 0.8370, NDCG@K: 0.3282
+top-K: 50, hit@K: 0.9651, NDCG@K: 0.3532
+
+top-K: 5, hit@K: 0.3198, NDCG@K: 0.1790
+top-K: 10, hit@K: 0.6426, NDCG@K: 0.2794
+top-K: 15, hit@K: 0.7269, NDCG@K: 0.3021
+top-K: 25, hit@K: 0.8339, NDCG@K: 0.3265
+top-K: 50, hit@K: 0.9665, NDCG@K: 0.3525
+
+top-K: 5, hit@K: 0.2986, NDCG@K: 0.1701
+top-K: 10, hit@K: 0.6375, NDCG@K: 0.2796
+top-K: 15, hit@K: 0.7339, NDCG@K: 0.3055
+top-K: 25, hit@K: 0.8493, NDCG@K: 0.3315
+top-K: 50, hit@K: 0.9664, NDCG@K: 0.3544
+
+top-K: 5, hit@K: 0.2239, NDCG@K: 0.1324
+top-K: 10, hit@K: 0.5995, NDCG@K: 0.2529
+top-K: 15, hit@K: 0.7600, NDCG@K: 0.2955
+top-K: 25, hit@K: 0.8375, NDCG@K: 0.3132
+top-K: 50, hit@K: 0.9669, NDCG@K: 0.3386
+
